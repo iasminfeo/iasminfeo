@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub.
 
-Meu nome é **[Iasmin]**! Sou **[Estudante de Ciência da Computação]** na **[Puc Minas]**. Aqui você pode conferir alguns dos meus projetos e contribuições.
+Meu nome é **Iasmin**! Sou **Estudante de Ciência da Computação** na **PUC Minas**. Aqui você pode conferir alguns dos meus projetos e contribuições.
 
 ---
 
@@ -16,31 +16,30 @@ Meu nome é **[Iasmin]**! Sou **[Estudante de Ciência da Computação]** na **[
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_title=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iasminfeo&show_icons=true&theme=dark&hide_title=true)
 
 ---
 
 ## 📈 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&langs_count=5&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=iasminfeo&langs_count=5&theme=dark)
 
 ---
 
 ## 📅 Meu GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=github)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=iasminfeo&theme=github)
 
 ---
 
 ## 📈 Estatísticas de Contribuição
 
-![Contribuições](https://github-contributions.vercel.app/api?username=seu-usuario&count_private=true&theme=dark)
+![Contribuições](https://github-contributions.vercel.app/api?username=iasminfeo&count_private=true&theme=dark)
 
 ---
 
 ## 💬 Vamos nos conectar!
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-linkedin/**](https://www.linkedin.com/in/iasmin-oliveira-263105327/))
+- [LinkedIn](https://www.linkedin.com/in/iasmin-oliveira-263105327/)
 
 ---
-
