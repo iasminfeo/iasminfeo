@@ -28,17 +28,6 @@ Sou **Estudante de Ciência da Computação** na **PUC Minas**. Adoro aprender n
 
 ---
 
-## 📅 Meu GitHub Activity
-
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=iasminfeo&theme=github)](https://github.com/iasminfeo)
-
----
-
-## 📈 Contribuições
-
-![Contribuições](https://github-contributions.vercel.app/api?username=iasminfeo&count_private=true&theme=radical)
-
----
 
 ## 💬 Vamos nos conectar!
 
