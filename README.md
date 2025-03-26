@@ -26,14 +26,7 @@ Meu nome é **Iasmin**! Sou **Estudante de Ciência da Computação** na **PUC M
 
 ---
 
-## 📅 Meu GitHub Activity
-
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=iasminfeo&theme=github)
-
----
-
-## 📈 Estatísticas de Contribuição
-
 ![Contribuições](https://github-contributions.vercel.app/api?username=iasminfeo&count_private=true&theme=dark)
 
 ---
