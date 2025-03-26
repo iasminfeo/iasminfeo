@@ -34,9 +34,3 @@ Sou **Estudante de Ciência da Computação** na **PUC Minas**. Adoro aprender n
 - [LinkedIn](https://www.linkedin.com/in/iasmin-oliveira-263105327/)
 
 ---
-
-## ⚡ Fun Facts
-
-- 🚀 Gosto de trabalhar com **back-end** e **desenvolvimento de sistemas**.
-- 💻 Sempre busco aprender sobre **inteligência artificial** e **desenvolvimento web**.
-- 📚 Sou apaixonada por livros sobre **programação** e **tecnologias emergentes**.
